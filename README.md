@@ -4,7 +4,7 @@
 ### Digital Marketer and Mentor
 
 
-Dublin, Ireland · MSc Interactive Digital Media, Griffith College Dublin
+Dublin, Ireland · MSc Interactive Digital Media student, Griffith College Dublin (September 2026–present)
 
 
 I build digital marketing campaigns, manage WordPress websites, and create content that helps people understand products and services. I also design original teaching materials and deliver practical digital marketing training for adult learners, including working professionals.
@@ -22,7 +22,7 @@ My background combines B2B marketing, e-commerce, television production, and tea
 | Project | What you can explore |
 | --- | --- |
 | [Digital Marketing Teaching](https://github.com/assassinjahid/digital-marketing-teaching) | Original training portfolio, subject catalogue, and practical exercises for adult learners |
-| [Digital Marketing Case Studies](https://github.com/assassinjahid/digital-marketing-case-studies) | Experience-based project overviews covering engineering marketing, e-commerce, and training campaigns |
+| [Digital Marketing Case Studies](https://github.com/assassinjahid/digital-marketing-case-studies) | Engineering and training role overviews, with a linked ClypChip campaign case study |
 | [Marketing Toolkit](https://github.com/assassinjahid/marketing-toolkit) | ClypChip campaign case study, original creatives, source reports and reproducible analysis |
 
 
