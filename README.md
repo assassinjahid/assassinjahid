@@ -13,7 +13,7 @@ I build digital marketing campaigns, manage WordPress websites, and create conte
 My background combines B2B marketing, e-commerce, television production, and teaching. I bring storytelling and clear communication to both marketing and learning experiences.
 
 
-[LinkedIn](https://www.linkedin.com/in/jahid-akash/) · [Teaching portfolio](https://github.com/assassinjahid/digital-marketing-teaching) · [Marketing projects](https://github.com/assassinjahid/digital-marketing-case-studies)
+[LinkedIn](https://www.linkedin.com/in/jahid-akash/) · [Teaching portfolio](https://github.com/assassinjahid/digital-marketing-teaching) · [Marketing projects](https://github.com/assassinjahid/digital-marketing-case-studies) · [Marketing toolkit](https://github.com/assassinjahid/marketing-toolkit)
 
 
 ## Explore my work
@@ -23,6 +23,7 @@ My background combines B2B marketing, e-commerce, television production, and tea
 | --- | --- |
 | [Digital Marketing Teaching](https://github.com/assassinjahid/digital-marketing-teaching) | Original training portfolio, subject catalogue, and practical exercises for adult learners |
 | [Digital Marketing Case Studies](https://github.com/assassinjahid/digital-marketing-case-studies) | Experience-based project overviews covering engineering marketing, e-commerce, and training campaigns |
+| [Marketing Toolkit](https://github.com/assassinjahid/marketing-toolkit) | ClypChip campaign case study, original creatives, source reports and reproducible analysis |
 
 
 ## What I work with
